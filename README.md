@@ -1,7 +1,7 @@
 # DNS-Changer
 Windows Dns Changer 
-
-+Shecan
-+Radar(Game)
-+Cloudflare
-+Google
+# Servers
+- (Shecan)
+- (Radar(Game))
+- (Cloudflare)
+- (Google)
