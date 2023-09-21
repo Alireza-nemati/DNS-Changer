@@ -1,0 +1,17 @@
+C:\Users\Alireza\source\repos\DNS Changer\bin\Debug\net6.0-windows\DNS Changer.exe
+C:\Users\Alireza\source\repos\DNS Changer\bin\Debug\net6.0-windows\DNS Changer.deps.json
+C:\Users\Alireza\source\repos\DNS Changer\bin\Debug\net6.0-windows\DNS Changer.runtimeconfig.json
+C:\Users\Alireza\source\repos\DNS Changer\bin\Debug\net6.0-windows\DNS Changer.dll
+C:\Users\Alireza\source\repos\DNS Changer\bin\Debug\net6.0-windows\ref\DNS Changer.dll
+C:\Users\Alireza\source\repos\DNS Changer\bin\Debug\net6.0-windows\DNS Changer.pdb
+C:\Users\Alireza\source\repos\DNS Changer\obj\Debug\net6.0-windows\DNS Changer.csproj.AssemblyReference.cache
+C:\Users\Alireza\source\repos\DNS Changer\obj\Debug\net6.0-windows\DNS_Changer.Main.resources
+C:\Users\Alireza\source\repos\DNS Changer\obj\Debug\net6.0-windows\DNS Changer.csproj.GenerateResource.cache
+C:\Users\Alireza\source\repos\DNS Changer\obj\Debug\net6.0-windows\DNS Changer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alireza\source\repos\DNS Changer\obj\Debug\net6.0-windows\DNS Changer.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\DNS Changer\obj\Debug\net6.0-windows\DNS Changer.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\DNS Changer\obj\Debug\net6.0-windows\DNS Changer.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\DNS Changer\obj\Debug\net6.0-windows\DNS Changer.dll
+C:\Users\Alireza\source\repos\DNS Changer\obj\Debug\net6.0-windows\ref\DNS Changer.dll
+C:\Users\Alireza\source\repos\DNS Changer\obj\Debug\net6.0-windows\DNS Changer.pdb
+C:\Users\Alireza\source\repos\DNS Changer\obj\Debug\net6.0-windows\DNS Changer.genruntimeconfig.cache

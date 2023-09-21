@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d8ac31f8-de55-4218-b418-8a0e0eb9b4a2": {
+      "ProjectGuid": "d8ac31f8-de55-4218-b418-8a0e0eb9b4a2",
+      "DisplayName": "DNS Changer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
