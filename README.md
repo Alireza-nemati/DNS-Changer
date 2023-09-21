@@ -1,7 +1,7 @@
 # DNS-Changer
 Windows Dns Changer 
 # Servers
-- (<a href="https://shecan.ir/" target="_blank">Shecan</a>)
+- (Shecan)
 - (Radar-<Game>)
 - (Cloudflare)
 - (Google)
