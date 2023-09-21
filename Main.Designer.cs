@@ -82,7 +82,9 @@
             "Shecan",
             "Radar (Game)",
             "Cloudflare",
-            "Google"});
+            "Google",
+            "403",
+            "Begzar"});
             this.combo_setServer.Location = new System.Drawing.Point(86, 38);
             this.combo_setServer.Name = "combo_setServer";
             this.combo_setServer.Size = new System.Drawing.Size(186, 23);

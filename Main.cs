@@ -96,21 +96,29 @@ namespace DNS_Changer
 
             switch (selected)
             {
-                    case "0":
+                case "0":
                     PrimaryDNS = "178.22.122.100";
                     SecondDNS = "185.51.200.2";
                     break;
-                    case "1":
+                case "1":
                     PrimaryDNS = "10.202.10.10";
                     SecondDNS = "10.202.10.11";
                     break;
-                    case "2":
+                case "2":
                     PrimaryDNS = "1.1.1.1";
                     SecondDNS = "1.0.0.1";
                     break;
-                    case "3":
+                case "3":
                     PrimaryDNS = "8.8.8.8";
                     SecondDNS = "8.8.4.4";
+                    break;
+                case "4":
+                    PrimaryDNS = "10.202.10.202";
+                    SecondDNS = "10.202.10.102";
+                    break;
+                case "5":
+                    PrimaryDNS = "185.55.226.26";
+                    SecondDNS = "185.55.225.25";
                     break;
             }
          

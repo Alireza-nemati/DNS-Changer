@@ -5,3 +5,5 @@ Windows Dns Changer
 - (Radar-[Game])
 - (Cloudflare)
 - (Google)
+- (403)
+- (Begzar)
